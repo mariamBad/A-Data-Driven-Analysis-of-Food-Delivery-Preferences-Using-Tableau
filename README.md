@@ -1,4 +1,4 @@
-# A-Data-Driven-Analysis-of-Food-Delivery-Preferences-Using-Tableau
+# A Data-Driven Analysis of Food Delivery Preferences Using Tableau
 XpressTech, a tech startup based in Lagos, Nigeria, has been operating successfully in the ride-hailing, logistics, and food delivery sectors since its inception in 2019. As a Supply Chain Analyst for XpressTech, I was tasked with providing insights to optimize the company's food delivery service.
 
 With 388 survey respondents providing valuable data, my objective was to analyze customer preferences and behaviors to improve the food delivery service. Key areas of focus included customer demographics, ordering preferences, delivery efficiency, food quality, and customer satisfaction.
